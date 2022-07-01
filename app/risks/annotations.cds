@@ -1,6 +1,6 @@
 using RiskService from '../../srv/risk-service';
 
-// Risk List Report Page
+// Risk List Report Page Testing
 annotate RiskService.Risks with @(UI : {
     HeaderInfo      : {
         TypeName       : 'Risk',
